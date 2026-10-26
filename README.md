@@ -3,7 +3,7 @@
 <h6 align="center">Hello, I am Arka, a  Full Stack Software Engineer based in Kolkata, India. I specialize in developing creative, user-friendly, responsive, and minimalistic websites and web applications using modern technologies. I am passionate about crafting efficient and scalable solutions & collaborative environments. Feel free to connect with me to discuss exciting opportunities or potential collaborations.</h6>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&width=435&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+MongoDB;Cloud+%7C+Docker+%7C+Machine+Learning+Learner;Videographer+%7C+Gamer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&width=435&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+MongoDB;Machine+Learning+%7C+GEN+AI;Videographer+%7C+Gamer" alt="Typing SVG" />
 </p>
 
 <div align="center">
@@ -86,7 +86,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&width=435&lines=@isocyanideisgood+%7C+@cam_worldd;connectwitharkp@gmail.com;ArkaPratim✌️👨‍💻" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&width=435&lines=@ig_s0ulkiller+%7C+@s0ul_plays;connectwitharkp@gmail.com;Arka+Pratim✌️👨‍💻" alt="Typing SVG" />
 </p>
 
 <!-- Made with ❤️ by ArkaPratim -->
