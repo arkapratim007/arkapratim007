@@ -7,7 +7,7 @@
 </p>
 
 <div align="center">
-  <a href="https://github.com/arkapratim007/Portfolio/blob/50928e9394a9685afc3c7d533511a32077932544/assets/CV.pdf" download=Arka pratim UCV.pdf">
+  <a href="https://github.com/arkapratim007/arka-pratim-portfolio/blob/main/public/portfolio_assets/Arka_Pratim_Resume.pdf" download=Arka pratim UCV.pdf">
     <img src="https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&logo=adobeacrobatreader" alt="Download Resume">
   </a>
 </div>
